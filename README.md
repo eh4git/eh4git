@@ -1,10 +1,7 @@
-
 #
-
 <div align="center">
-<img src="./profilePic.jpeg" width="180px">
 <h3 align="center">
-  👋 Hello, Welcome to Erik's GitHub! 
+  👋 Hello, Welcome to My GitHub! 
 </h3>
 </div>
 
@@ -14,8 +11,8 @@
 
   - 👨🏽‍💻 **I am a Full-Stack Developer.**
   - **💡 Collaborative Inovator.**
-  - ⚡ I am Currently **working to hone my skills in web development, always learning.**
-  
+  - ⚡ I am Currently **working to hone my skills in web development**
+  - 📖 **Always Learning.**
 #
 
 <h3 align="center">
@@ -72,7 +69,6 @@
 <br/>
 
   ![eh4git's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh4git&show_icons=true&theme=gruvbox)
-  
 </div>
 
 #
