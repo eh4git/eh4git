@@ -1,4 +1,5 @@
 #
+
 <div align="center">
 <h3 align="center">
   👋 Hello, Welcome to My GitHub! 
@@ -9,10 +10,11 @@
 
 <br/>
 
-  - 👨🏽‍💻 **I am a Full-Stack Developer.**
-  - **💡 Collaborative Inovator.**
-  - ⚡ I am Currently **working to hone my skills in web development**
-  - 📖 **Always Learning.**
+- 👨🏽‍💻 **I am a Full-Stack Developer.**
+- **💡 Collaborative Inovator.**
+- ⚡ I am Currently **working to hone my skills in web development**
+- 📖 **Always Learning.**
+
 #
 
 <h3 align="center">
@@ -68,7 +70,8 @@
 
 <br/>
 
-  ![eh4git's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh4git&show_icons=true&theme=gruvbox)
+![eh4git's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh4git&show_icons=1&theme=gruvbox&count_private=1&hide_border=1&bg_color=222428&text_color=49C977&title_color=b68842&icon_color=84673b)
+
 </div>
 
 #
