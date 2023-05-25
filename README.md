@@ -1,6 +1,6 @@
 #
 
-<div display="flex" align="center">
+<div align="center">
   <h2 align="center">
     👋 Hello, Welcome to My GitHub! 
   </h2>
@@ -14,14 +14,17 @@
 - 💡 Know by peers as a... **_Collaborative Innovator._**
 - ⚡ I am currently... **_Working to hone my skills in software development_**
 - 📖 Forever curious and... **_Always Learning._**
-<ul style="display:flex;align-items:center;">
+
+<!-- <ul style="display:flex;align-items:center;">
   <li>
     ⚒️ I am currently working @&nbsp;
-    
+
   </li>
   <img alt="EdX" width="65px" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" />
   <li style="list-style:none;">&nbsp;as a <b>Teaching Assistant</b> and <b>Tutor</b>🎓</li>
-</ul>
+</ul> -->
+
+- ⚒️ I am currently working @&nbsp;<img alt="EdX" width="65px" src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" /> as a <b>Teaching Assistant</b> and <b>Tutor</b>🎓
 
 #
 
